@@ -1,0 +1,16 @@
+{
+  "name": "deriv-over0-triggered-recovery-bot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Deriv Digit Over 0 bot with two-consecutive-Under-2 tick trigger for Over 1 recovery",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
